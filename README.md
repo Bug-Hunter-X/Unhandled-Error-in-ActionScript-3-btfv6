@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in ActionScript 3 where an error is thrown but not properly handled, resulting in unexpected program behavior. The `bug.as` file showcases the problematic code, while `bugSolution.as` provides a solution with improved error handling.
